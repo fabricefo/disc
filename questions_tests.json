@@ -1,0 +1,82 @@
+[
+    {
+        "style": "D",
+        "question": "Je m'épanouis dans les environnements dynamiques où je peux prendre les choses en main et prendre des décisions rapidement.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "I",
+        "question": "J'apprécie sincèrement collaborer avec les autres et tisser des liens solides au sein d'une équipe.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "C",
+        "question": "Je trouve une grande satisfaction à planifier méticuleusement et à veiller à ce que chaque détail soit pris en compte.",
+        "mapping": {
+            "D": 0,
+            "I": 0,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "S",
+        "question": "Je privilégie le maintien de l'harmonie et crois en la recherche d'un terrain d'entente pour résoudre les conflits pacifiquement.",
+        "mapping": {
+            "D": -1,
+            "I": 0,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "D",
+        "question": "Je suis naturellement attirée par les rôles de leadership et je me sens à l'aise pour prendre des initiatives au sein d'un groupe.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "J'ai le don d'inspirer les autres et j'aime partager mon enthousiasme pour susciter l'intérêt des gens pour mes idées.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "S",
+        "question": "J'apprécie le confort des routines et je préfère une structure prévisible pour mes activités quotidiennes.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "C",
+        "question": "Je suis très attentif aux détails et je suis fier de produire un travail précis et exact.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    }
+]
